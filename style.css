@@ -1,5 +1,5 @@
 body {
-  background-color: #ff7ed4;
+  background-color: #3e037d;
   margin: 0px;
   padding: 0px;
 }
@@ -10,11 +10,11 @@ body {
   align-items: center;
   text-align: center;
   font-family: "Open-Sans", sans-serif;
-  background-color: white;
+  background-color: rgb(255, 255, 255);
 }
 
 .title {
-  background: linear-gradient(300deg, #6420aa, #ff3ea5, #ff7ed4, #ffb5da);
+  background: linear-gradient(300deg, #6420aa, #660036, #b30077, #3e037d);
   background-clip: text;
   -webkit-background-clip: text;
   color: transparent;
@@ -46,7 +46,7 @@ p {
   font-family: "Open-Sans", sans-serif;
   font-weight: bold;
   color: white;
-  background-color: #ffb5da;
+  background-color: #3e037d;
   padding: 20px;
   margin-top: 125px;
 }
